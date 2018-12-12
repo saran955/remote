@@ -10,4 +10,4 @@ hi there lise
 hi 
 
 git add 
-git revert
+git revert git merge
