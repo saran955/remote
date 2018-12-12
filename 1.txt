@@ -4,6 +4,7 @@ hi there lise
 
 second line  lise
 hi there lise
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,5 @@ hi
 
 git add 
 git revert git merge
+=======
+>>>>>>> parent of 067cb16... hi
