@@ -1,4 +1,5 @@
 first lise
+<<<<<<< HEAD
 hi there lise
 
 
@@ -15,3 +16,5 @@ git revert git merge
 =======
 hi 
 >>>>>>> parent of cef20e1... add
+=======
+>>>>>>> parent of 6f6f0c4... 2
