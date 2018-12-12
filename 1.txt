@@ -7,7 +7,11 @@ hi there lise
 
 
 
+<<<<<<< HEAD
 hi 
 
 git add 
 git revert git merge
+=======
+hi 
+>>>>>>> parent of cef20e1... add
